@@ -112,5 +112,5 @@ dapc_umap = function(dir, popData, file, samplesFile)
 
 }
 
-dapc_umap("/Users/marthaanitademba/Documents/amplicon_eniyou/bwaSingleEndVcfsFreebayes", "../popDataPM.txt", "Output.g5mac3dp3.recodeSnp.txt", "samples.txt")
+dapc_umap(".", "../data/popDataPM.txt", "../data/Output.g5mac3dp3.recodeSnp.txt", "../data/samples.txt") 
 

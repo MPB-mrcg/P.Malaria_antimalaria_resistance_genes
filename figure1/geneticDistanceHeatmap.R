@@ -143,6 +143,6 @@ GeneticDist = function(dir, file, popData, type)
   else
     stop()
 }
-GeneticDist("/Users/marthaanitademba/Documents/amplicon_eniyou/bwaSingleEndVcfsFreebayes", "Output.g5mac3dp3.recodeSnp.Cleaned.txt", "../popDataPM.txt", "snp") 
-GeneticDist("/Users/marthaanitademba/Documents/amplicon_eniyou/bwaSingleEndVcfsFreebayes", "../Pm_msat_data.csv", "../popDataPM.txt", "msat") #msatData="../Pm_msat_data.csv"
+GeneticDist(".", "../data/Output.g5mac3dp3.recodeSnp.Cleaned.txt", "../popDataPM.txt", "snp") 
+GeneticDist(".", "../data/Pm_msat_data.csv", "../data/popDataPM.txt", "msat") #msatData="../Pm_msat_data.csv"
 #msatData="../Pm_msat_data.csv"

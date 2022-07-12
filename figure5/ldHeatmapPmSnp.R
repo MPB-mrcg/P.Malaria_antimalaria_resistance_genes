@@ -72,5 +72,5 @@ ldheatmapSNP = function(dir, file){
 
 }
 
-ldheatmapSNP("/Users/marthaanitademba/Documents/amplicon_eniyou/bwaSingleEndVcfsFreebayes", "Output.g5mac3dp3.recodeSnp.Cleaned.txt")
+ldheatmapSNP(".", "../data/Output.g5mac3dp3.recodeSnp.Cleaned.txt")
 

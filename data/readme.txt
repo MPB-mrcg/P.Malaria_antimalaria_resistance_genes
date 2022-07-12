@@ -1,0 +1,1 @@
+This directory contains all the data needed to reproduce the plots found in the "Plasmodium malariae sub-structure in sub-Saharan Africa determined from microsatellite variants and linked SNPs in orthologues of antimalarial resistance genes. manuscript"

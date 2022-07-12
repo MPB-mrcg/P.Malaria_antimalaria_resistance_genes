@@ -108,5 +108,5 @@ calculateFWS = function(dir, pop, vcfFile){
 
 }
 
-calculateFWS("/Users/marthaanitademba/Documents/amplicon_eniyou/bwaSingleEndVcfsFreebayes", "../popDataPM.txt", "Output.g5mac3dp3.recodeSnp.vcf")
+calculateFWS(".", "../data/popDataPM.txt", "../data/Output.g5mac3dp3.recodeSnp.vcf")
 
